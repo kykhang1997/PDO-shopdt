@@ -1,9 +1,0 @@
-- Sau khi code xong úp code lên github:
-git push origin develop
-git add .
-git commit -m "update"
-
-- Tải code về từ github:
-git pull origin develop
-
-git checkout develop: đổi nhánh hiện tại sang nhánh develop

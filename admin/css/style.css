@@ -1,0 +1,11 @@
+.jumbotron {
+    text-align: center;
+    color: coral;
+}
+
+.nav-item {
+    border-right: 2px solid coral;
+    border-left: 2px solid coral;
+}
+
+tr {}
